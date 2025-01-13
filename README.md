@@ -1,4 +1,5 @@
 Network Monitoring Tool
+
 This script provides three key network monitoring functionalities:
 
 Capture Packets: It allows you to capture and display network packets on a selected interface using Scapy. It lists available network interfaces and their IP/MAC addresses and then allows you to sniff packets on a chosen interface.
